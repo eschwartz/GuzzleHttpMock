@@ -1,3 +1,5 @@
+**NOTE** The main repo for this project is at [aerisweather/GuzzleHttpMock](https://github.com/aerisweather/GuzzleHttpMock). This repo is a fork, and is not necessarily up to date.
+
 # GuzzleHttpMock
 
 A mock library for verifying requests made with the [Guzzle Http Client](http://guzzle.readthedocs.org/), and mocking responses.
